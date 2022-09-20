@@ -17,5 +17,5 @@
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
         android:layout_margin="16dp"
-        android:text="It's a duck!"/>
+        android:text="Quack Quack"/>
 </FrameLayout>
